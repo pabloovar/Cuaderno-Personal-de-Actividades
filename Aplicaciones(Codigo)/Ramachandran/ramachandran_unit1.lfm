@@ -1,0 +1,214 @@
+object Form1: TForm1
+  Left = 702
+  Height = 513
+  Top = 249
+  Width = 854
+  Caption = 'Form1'
+  ClientHeight = 493
+  ClientWidth = 854
+  Menu = MainMenu1
+  OnCreate = FormCreate
+  LCLVersion = '2.0.10.0'
+  object Memo1: TMemo
+    Left = 16
+    Height = 306
+    Top = 49
+    Width = 249
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    Lines.Strings = (
+      ''
+    )
+    ParentFont = False
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Memo2: TMemo
+    Left = 277
+    Height = 339
+    Top = 16
+    Width = 199
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    Lines.Strings = (
+      ''
+    )
+    ParentFont = False
+    ScrollBars = ssAutoVertical
+    TabOrder = 1
+    WordWrap = False
+  end
+  object Image1: TImage
+    Left = 507
+    Height = 333
+    Top = 21
+    Width = 333
+  end
+  object Edit1: TEdit
+    Left = 16
+    Height = 23
+    Top = 17
+    Width = 187
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 53
+    Height = 55
+    Top = 384
+    Width = 108
+    Caption = 'Ramachandran'
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 3
+  end
+  object Shape1: TShape
+    Left = 192
+    Height = 23
+    Top = 416
+    Width = 27
+    Brush.Color = clGreen
+    OnMouseDown = Shape1MouseDown
+    Shape = stCircle
+  end
+  object Shape2: TShape
+    Left = 192
+    Height = 23
+    Top = 464
+    Width = 27
+    Brush.Color = clGreen
+    OnMouseDown = Shape2MouseDown
+    Shape = stCircle
+  end
+  object Label1: TLabel
+    Left = 229
+    Height = 17
+    Top = 419
+    Width = 73
+    AutoSize = False
+    Caption = 'Color de linea'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 229
+    Height = 17
+    Top = 464
+    Width = 84
+    AutoSize = False
+    Caption = 'Color de relleno'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Shape3: TShape
+    Left = 192
+    Height = 23
+    Top = 373
+    Width = 27
+    Brush.Color = clBlack
+    OnMouseDown = Shape3MouseDown
+    Shape = stCircle
+  end
+  object Label3: TLabel
+    Left = 229
+    Height = 17
+    Top = 375
+    Width = 84
+    AutoSize = False
+    Caption = 'Color de fondo'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button1: TButton
+    Left = 208
+    Height = 22
+    Top = 16
+    Width = 60
+    Caption = '>>'
+    OnClick = Button1Click
+    TabOrder = 4
+  end
+  object ColorDialog1: TColorDialog
+    Color = clBlack
+    CustomColors.Strings = (
+      'ColorA=000000'
+      'ColorB=000080'
+      'ColorC=008000'
+      'ColorD=008080'
+      'ColorE=800000'
+      'ColorF=800080'
+      'ColorG=808000'
+      'ColorH=808080'
+      'ColorI=C0C0C0'
+      'ColorJ=0000FF'
+      'ColorK=00FF00'
+      'ColorL=00FFFF'
+      'ColorM=FF0000'
+      'ColorN=FF00FF'
+      'ColorO=FFFF00'
+      'ColorP=FFFFFF'
+      'ColorQ=C0DCC0'
+      'ColorR=F0CAA6'
+      'ColorS=F0FBFF'
+      'ColorT=A4A0A0'
+    )
+    Left = 379
+    Top = 448
+  end
+  object MainMenu1: TMainMenu
+    Left = 384
+    Top = 379
+    object MenuItem1: TMenuItem
+      Caption = 'Proteína'
+      object MenuItem2: TMenuItem
+        Caption = 'Abrir Proteína'
+      end
+      object MenuItem3: TMenuItem
+        Caption = 'Cerrar PDB'
+      end
+      object MenuItem4: TMenuItem
+        Caption = 'Salir del programa'
+        OnClick = MenuItem4Click
+      end
+    end
+    object MenuItem5: TMenuItem
+      Caption = 'Cálculos'
+      object MenuItem6: TMenuItem
+        Caption = 'Ramachandran'
+      end
+    end
+    object MenuItem7: TMenuItem
+      Caption = 'Configuración'
+      object MenuItem8: TMenuItem
+        Caption = 'Colores'
+        object MenuItem9: TMenuItem
+          Caption = 'Línea'
+        end
+        object MenuItem10: TMenuItem
+          Caption = 'Relleno'
+        end
+        object MenuItem11: TMenuItem
+          Caption = 'Fondo'
+        end
+      end
+      object MenuItem12: TMenuItem
+        Caption = 'Borrar'
+      end
+    end
+    object MenuItem13: TMenuItem
+      Caption = 'Ayuda'
+    end
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 476
+    Top = 394
+  end
+end

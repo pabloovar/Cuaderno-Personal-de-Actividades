@@ -1,0 +1,417 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Beigel%
+\ \protect \BOthers {.}}{%
+Beigel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+remde}
+\APACinsertmetastar {%
+remde}%
+\begin{APACrefauthors}%
+Beigel, J\BPBI H.%
+, Tomashek, K\BPBI M.%
+, Dodd, L\BPBI E.%
+, Mehta, A\BPBI K.%
+, Zingman, B\BPBI S.%
+, Kalil, A\BPBI C.%
+\BDBL {}Members, A\BPBI C\BPBI T\BPBI T\BHBI \BPBI S\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Remdesivir for the Treatment of Covid-19 - Final
+  Report.} {Remdesivir for the treatment of covid-19 - final report.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The New England journal of
+  medicine}{383}{}{1813--1826}.
+\newblock
+\begin{APACrefDOI} \doi{10.1056/NEJMoa2007764} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+\ \protect \BOthers {.}}{%
+Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+helicasa}
+\APACinsertmetastar {%
+helicasa}%
+\begin{APACrefauthors}%
+Chen, J.%
+, Malone, B.%
+, Llewellyn, E.%
+, Grasso, M.%
+, Shelton, P\BPBI M.%
+, Olinares, P\BPBI D\BPBI B.%
+\BDBL {}Campbell, E\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structural Basis for Helicase-Polymerase Couplingin the
+  SARS-CoV-2 Replication-TranscriptionComplex} {Structural basis for
+  helicase-polymerase couplingin the sars-cov-2
+  replication-transcriptioncomplex}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gao%
+\ \protect \BOthers {.}}{%
+Gao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+RdRp}
+\APACinsertmetastar {%
+RdRp}%
+\begin{APACrefauthors}%
+Gao, Y.%
+, Yan, L.%
+, Huang, Y.%
+, Liu, F.%
+, Zhao, Y.%
+, Cao, L.%
+\BDBL {}Rao, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structure of the RNA-dependent RNA polymerase from
+  COVID-19 virus.} {Structure of the rna-dependent rna polymerase from covid-19
+  virus.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science (New York, N.Y.)}{368}{}{779--782}.
+\newblock
+\begin{APACrefDOI} \doi{10.1126/science.abb7498} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hu%
+, Guo%
+, Zhou%
+\BCBL {}\ \BBA {} Shi%
+}{%
+Hu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+natu}
+\APACinsertmetastar {%
+natu}%
+\begin{APACrefauthors}%
+Hu, B.%
+, Guo, H.%
+, Zhou, P.%
+\BCBL {}\ \BBA {} Shi, Z\BHBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Characteristics of SARS-CoV-2 and COVID-19}
+  {Characteristics of sars-cov-2 and covid-19}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Reviews Microbiology}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kim%
+\ \protect \BOthers {.}}{%
+Kim%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Kim2020}
+\APACinsertmetastar {%
+Kim2020}%
+\begin{APACrefauthors}%
+Kim, D.%
+, Lee, J\BHBI Y.%
+, Yang, J\BHBI S.%
+, Kim, J\BPBI W.%
+, Kim, V\BPBI N.%
+\BCBL {}\ \BBA {} Chang, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Architecture of SARS-CoV-2 Transcriptome.} {The
+  architecture of sars-cov-2 transcriptome.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell}{181}{}{914--921.e10}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.cell.2020.04.011} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Konkolova%
+, Klima%
+, Nencka%
+\BCBL {}\ \BBA {} Boura%
+}{%
+Konkolova%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+78}
+\APACinsertmetastar {%
+78}%
+\begin{APACrefauthors}%
+Konkolova, E.%
+, Klima, M.%
+, Nencka, R.%
+\BCBL {}\ \BBA {} Boura, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structural analysis of the putative SARS-CoV-2 primase
+  complex.} {Structural analysis of the putative sars-cov-2 primase
+  complex.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of structural biology}{211}{}{107548}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jsb.2020.107548} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liang%
+\ \protect \BOthers {.}}{%
+Liang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+remde2}
+\APACinsertmetastar {%
+remde2}%
+\begin{APACrefauthors}%
+Liang, C.%
+, Tian, L.%
+, Liu, Y.%
+, Hui, N.%
+, Qiao, G.%
+, Li, H.%
+\BDBL {}Zhao, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A promising antiviral candidate drug for the COVID-19
+  pandemic: A mini-review of remdesivir.} {A promising antiviral candidate drug
+  for the covid-19 pandemic: A mini-review of remdesivir.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European journal of medicinal
+  chemistry}{201}{}{112527}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.ejmech.2020.112527} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Snijder%
+, Decroly%
+\BCBL {}\ \BBA {} Ziebuhr%
+}{%
+Snijder%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+biblia}
+\APACinsertmetastar {%
+biblia}%
+\begin{APACrefauthors}%
+Snijder, E\BPBI J.%
+, Decroly, E.%
+\BCBL {}\ \BBA {} Ziebuhr, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Nonstructural Proteins Directing Coronavirus RNA
+  Synthesis and Processing.} {The nonstructural proteins directing coronavirus
+  rna synthesis and processing.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Advances in virus research}{96}{}{59--126}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/bs.aivir.2016.08.008} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sola%
+, Almazán%
+, Zúñiga%
+\BCBL {}\ \BBA {} Enjuanes%
+}{%
+Sola%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+nested}
+\APACinsertmetastar {%
+nested}%
+\begin{APACrefauthors}%
+Sola, I.%
+, Almazán, F.%
+, Zúñiga, S.%
+\BCBL {}\ \BBA {} Enjuanes, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Continuous and Discontinuous RNA Synthesis in
+  Coronaviruses.} {Continuous and discontinuous rna synthesis in
+  coronaviruses.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annual review of virology}{2}{}{265--288}.
+\newblock
+\begin{APACrefDOI} \doi{10.1146/annurev-virology-100114-055218}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+V'kovski%
+, Kratzel%
+, Steiner%
+, Stalder%
+\BCBL {}\ \BBA {} Thiel%
+}{%
+V'kovski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+ciclo}
+\APACinsertmetastar {%
+ciclo}%
+\begin{APACrefauthors}%
+V'kovski, P.%
+, Kratzel, A.%
+, Steiner, S.%
+, Stalder, H.%
+\BCBL {}\ \BBA {} Thiel, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Coronavirus biology and replication: implications for
+  SARS-CoV-2.} {Coronavirus biology and replication: implications for
+  sars-cov-2.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature reviews. Microbiology}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1038/s41579-020-00468-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yan%
+, Ge%
+\BCBL {}\ \protect \BOthers {.}}{%
+Yan%
+, Ge%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+eRTC}
+\APACinsertmetastar {%
+eRTC}%
+\begin{APACrefauthors}%
+Yan, L.%
+, Ge, J.%
+, Zheng, L.%
+, Zhang, Y.%
+, Gao, Y.%
+, Wang, T.%
+\BDBL {}Lou, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Cryo-EM Structure of an Extended SARS-CoV-2 Replication
+  and Transcription Complex Reveals an Intermediate State in Cap Synthesis}
+  {Cryo-em structure of an extended sars-cov-2 replication and transcription
+  complex reveals an intermediate state in cap synthesis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yan%
+, Zhang%
+\BCBL {}\ \protect \BOthers {.}}{%
+Yan%
+, Zhang%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+miniRTC}
+\APACinsertmetastar {%
+miniRTC}%
+\begin{APACrefauthors}%
+Yan, L.%
+, Zhang, Y.%
+, Ge, J.%
+, Zheng, L.%
+, Gao, Y.%
+, Wang, T.%
+\BDBL {}Lou, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Architecture of a SARS-CoV-2 mini replication and
+  transcription complex.} {Architecture of a sars-cov-2 mini replication and
+  transcription complex.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature communications}{11}{}{5874}.
+\newblock
+\begin{APACrefDOI} \doi{10.1038/s41467-020-19770-1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+\ \BBA {} Zhou%
+}{%
+Zhang%
+\ \BBA {} Zhou%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+estremde}
+\APACinsertmetastar {%
+estremde}%
+\begin{APACrefauthors}%
+Zhang, L.%
+\BCBT {}\ \BBA {} Zhou, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structural Basis of the Potential Binding Mechanism of
+  Remdesivir to SARS-CoV-2 RNA-Dependent RNA Polymerase.} {Structural basis of
+  the potential binding mechanism of remdesivir to sars-cov-2 rna-dependent rna
+  polymerase.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The journal of physical chemistry.
+  B}{124}{}{6955--6962}.
+\newblock
+\begin{APACrefDOI} \doi{10.1021/acs.jpcb.0c04198} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

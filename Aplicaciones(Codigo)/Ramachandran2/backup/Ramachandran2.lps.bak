@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Ramachandran2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Ramachandran2_unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="3" Y="81"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Librerias\biotools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="754"/>
+        <CursorPos X="65" Y="770"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="66" Column="7" TopLine="33"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="65" Column="23" TopLine="33"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="77" Column="71" TopLine="60"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="83" Column="3" TopLine="61"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="88" Column="39" TopLine="61"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="14" Column="31"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="88" Column="66" TopLine="61"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="92" Column="35" TopLine="68"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="93" Column="3" TopLine="70"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="107" TopLine="81"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="99" Column="5" TopLine="66"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="116" Column="6" TopLine="99"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="97" Column="83" TopLine="67"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="93" Column="84" TopLine="77"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="102" Column="133" TopLine="81"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="100" Column="9" TopLine="84"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="102" Column="133" TopLine="80"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="101" Column="133" TopLine="79"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="100" Column="133" TopLine="78"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ramachandran2_unit1.pas"/>
+        <Caret Line="89" Column="53" TopLine="52"/>
+      </Position20>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

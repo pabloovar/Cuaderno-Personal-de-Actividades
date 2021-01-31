@@ -1,0 +1,87 @@
+object Form1: TForm1
+  Left = 698
+  Height = 798
+  Top = 371
+  Width = 1265
+  Caption = 'Form1'
+  ClientHeight = 798
+  ClientWidth = 1265
+  DesignTimePPI = 144
+  LCLVersion = '2.0.10.0'
+  object Memo1: TMemo
+    Left = 24
+    Height = 608
+    Top = 88
+    Width = 568
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Memo2: TMemo
+    Left = 640
+    Height = 608
+    Top = 88
+    Width = 592
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 1
+    WordWrap = False
+  end
+  object Edit1: TEdit
+    Left = 26
+    Height = 33
+    Top = 32
+    Width = 487
+    TabOrder = 2
+  end
+  object Button1: TButton
+    Left = 528
+    Height = 37
+    Top = 32
+    Width = 66
+    Caption = '>>'
+    OnClick = Button1Click
+    TabOrder = 3
+  end
+  object Button2: TButton
+    Left = 568
+    Height = 54
+    Top = 712
+    Width = 110
+    Caption = 'Calcular S-S'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object FloatSpinEdit1: TFloatSpinEdit
+    Left = 170
+    Height = 33
+    Top = 731
+    Width = 63
+    Increment = 0.1
+    MaxValue = 8
+    MinValue = 1
+    TabOrder = 5
+    Value = 1
+  end
+  object Label1: TLabel
+    Left = 96
+    Height = 25
+    Top = 732
+    Width = 58
+    Caption = 'Umbral'
+    ParentColor = False
+  end
+end

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="Enlace_SS.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="25"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Enlace_SS_unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="27"/>
+        <CursorPos X="83" Y="35"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Librerias\biotools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\Ramachandran\ramachandran_unit1.pas"/>
+        <UnitName Value="Ramachandran_unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\AlinearZ\alinearz_unit1.pas"/>
+        <UnitName Value="AlinearZ_unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="84"/>
+        <CursorPos X="19" Y="72"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="enlace_ss_unit1.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="8" Column="82"/>
+      </Position2>
+      <Position3>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="48" TopLine="25"/>
+      </Position3>
+      <Position4>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="102" Column="96" TopLine="89"/>
+      </Position4>
+      <Position5>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="70" Column="31" TopLine="54"/>
+      </Position5>
+      <Position6>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="75" Column="13" TopLine="60"/>
+      </Position6>
+      <Position7>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="94" Column="4" TopLine="78"/>
+      </Position7>
+      <Position8>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="103" Column="98" TopLine="87"/>
+      </Position8>
+      <Position9>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="8" Column="92"/>
+      </Position9>
+      <Position10>
+        <Filename Value="enlace_ss_unit1.pas"/>
+        <Caret Line="107" Column="30" TopLine="91"/>
+      </Position10>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

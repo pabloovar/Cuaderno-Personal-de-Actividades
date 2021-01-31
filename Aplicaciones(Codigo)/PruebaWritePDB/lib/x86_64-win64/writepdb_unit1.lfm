@@ -1,0 +1,113 @@
+object Form1: TForm1
+  Left = 667
+  Height = 581
+  Top = 263
+  Width = 799
+  Caption = 'Form1'
+  ClientHeight = 581
+  ClientWidth = 799
+  LCLVersion = '2.0.10.0'
+  object Memo1: TMemo
+    Left = 37
+    Height = 392
+    Top = 72
+    Width = 267
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ParentShowHint = False
+    ScrollBars = ssBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Edit1: TEdit
+    Left = 37
+    Height = 23
+    Top = 32
+    Width = 196
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 249
+    Height = 26
+    Top = 32
+    Width = 73
+    Caption = 'CargarPDB'
+    OnClick = Button1Click
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 342
+    Height = 52
+    Top = 247
+    Width = 149
+    Caption = 'WritePDB'
+    OnClick = Button2Click
+    TabOrder = 3
+  end
+  object Label1: TLabel
+    Left = 352
+    Height = 15
+    Top = 224
+    Width = 119
+    Caption = 'Crear TPDB con los CA'
+    ParentColor = False
+  end
+  object Memo2: TMemo
+    Left = 520
+    Height = 403
+    Top = 68
+    Width = 244
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 4
+    WordWrap = False
+  end
+  object Button3: TButton
+    Left = 616
+    Height = 35
+    Top = 502
+    Width = 124
+    Caption = 'Generar Fichero'
+    OnClick = Button3Click
+    TabOrder = 5
+  end
+  object Label2: TLabel
+    Left = 480
+    Height = 15
+    Top = 488
+    Width = 97
+    Caption = '¡Importante hacer '
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 472
+    Height = 15
+    Top = 502
+    Width = 117
+    Caption = 'una copia del original!'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 488
+    Height = 15
+    Top = 534
+    Width = 68
+    Caption = 'Nombre.pdb'
+    ParentColor = False
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 360
+    Top = 504
+  end
+end

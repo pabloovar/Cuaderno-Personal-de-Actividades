@@ -1,0 +1,29 @@
+\contentsline {chapter}{\numberline {1}Revisión bibliográfica}{2}%
+\contentsline {section}{\numberline {1.1}Introducción}{2}%
+\contentsline {section}{\numberline {1.2}Mecanismos moleculares y respuesta inmune al SARS-CoV-2}{2}%
+\contentsline {subsection}{\numberline {1.2.1}Aspectos genéticos}{3}%
+\contentsline {subsection}{\numberline {1.2.2}Ciclo viral: proteínas implicadas y aspectos funcionales}{5}%
+\contentsline {subsection}{\numberline {1.2.3}Respuesta inmunitaria y patología}{7}%
+\contentsline {section}{\numberline {1.3}Posibles estrategias terapéuticas: Remdesivir}{7}%
+\contentsline {section}{\numberline {1.4}Complejo Replicación Transcripción}{10}%
+\contentsline {subsection}{\numberline {1.4.1}RdRp (nsp12)}{11}%
+\contentsline {subsection}{\numberline {1.4.2}nsp7-nsp8}{12}%
+\contentsline {subsection}{\numberline {1.4.3}nsp13}{15}%
+\contentsline {subsection}{\numberline {1.4.4}nsp9}{15}%
+\contentsline {subsection}{\numberline {1.4.5}E-RTC}{16}%
+\contentsline {chapter}{\numberline {2}Actividades del CPA}{18}%
+\contentsline {section}{\numberline {2.1}Bases de datos secuenciales y estructurales}{18}%
+\contentsline {subsection}{\numberline {2.1.1}Detección de formatos de ficheros proteicos y extracción de la secuencia primaria}{18}%
+\contentsline {subsection}{\numberline {2.1.2}Desarrollo de la función CargarPDB}{19}%
+\contentsline {section}{\numberline {2.2}Visualización de proteínas}{19}%
+\contentsline {subsection}{\numberline {2.2.1}Visualización del RTC y obtención de imágenes}{19}%
+\contentsline {subsection}{\numberline {2.2.2}Desarrollo de la función writePDB}{20}%
+\contentsline {section}{\numberline {2.3}Predicción estructural y rediseño de proteínas}{21}%
+\contentsline {subsection}{\numberline {2.3.1}Diagrama de Ramachandran}{21}%
+\contentsline {subsection}{\numberline {2.3.2}Transformación de coordenadas y construcción de estereodiagrama}{23}%
+\contentsline {subsection}{\numberline {2.3.3}Alineación al eje Z}{24}%
+\contentsline {subsection}{\numberline {2.3.4}Cálculo del RMSD entre las tres primeras cisteínas}{27}%
+\contentsline {subsection}{\numberline {2.3.5}Generación de mutante: Phe a Tyr}{28}%
+\contentsline {subsection}{\numberline {2.3.6}Predicción de enlaces disulfuro}{30}%
+\contentsline {subsection}{\numberline {2.3.7}Hidrofobicidad y anfipatía}{30}%
+\contentsline {chapter}{References}{34}%

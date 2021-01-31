@@ -1,0 +1,101 @@
+object Form1: TForm1
+  Left = 563
+  Height = 676
+  Top = 158
+  Width = 1232
+  Caption = 'Form1'
+  ClientHeight = 676
+  ClientWidth = 1232
+  OnCreate = FormCreate
+  LCLVersion = '2.0.10.0'
+  object Image1: TImage
+    Left = 312
+    Height = 435
+    Top = 56
+    Width = 421
+  end
+  object Image2: TImage
+    Left = 768
+    Height = 431
+    Top = 56
+    Width = 413
+  end
+  object Memo1: TMemo
+    Left = 59
+    Height = 304
+    Top = 76
+    Width = 239
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Button1: TButton
+    Left = 245
+    Height = 24
+    Top = 43
+    Width = 47
+    Caption = '>>>'
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Edit1: TEdit
+    Left = 64
+    Height = 23
+    Top = 43
+    Width = 173
+    ParentFont = False
+    TabOrder = 2
+  end
+  object SpinEdit2: TSpinEdit
+    Left = 152
+    Height = 23
+    Top = 464
+    Width = 50
+    ParentFont = False
+    TabOrder = 3
+  end
+  object SpinEdit1: TSpinEdit
+    Left = 152
+    Height = 23
+    Top = 424
+    Width = 50
+    ParentFont = False
+    TabOrder = 4
+  end
+  object Label1: TLabel
+    Left = 80
+    Height = 15
+    Top = 432
+    Width = 64
+    Caption = 'C alfa inicial'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 80
+    Height = 15
+    Top = 466
+    Width = 56
+    Caption = 'C alfa final'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button2: TButton
+    Left = 88
+    Height = 41
+    Top = 504
+    Width = 131
+    Caption = 'AlinearZ'
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 5
+  end
+end

@@ -1,0 +1,753 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.23)  31 JAN 2021 19:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"CPA- Pablo Vargas Rodríguez.tex"
+(./CPA- Pablo Vargas Rodríguez.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-06>
+(d:/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(d:/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(d:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(d:/texlive/2020/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count177
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(d:/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count178
+\c@continuedfloat=\count179
+)
+\c@subfigure=\count180
+\c@subtable=\count181
+)
+(d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-11 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count182
+\l__pdf_internal_box=\box45
+)
+(./CPA- Pablo Vargas Rodríguez.aux
+
+LaTeX Warning: Label `1º' multiply defined.
+
+
+LaTeX Warning: Label `sub@1º' multiply defined.
+
+)
+\openout1 = `"CPA- Pablo Vargas Rodríguez.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+\c@maskedRefs=\count183
+ (d:/texlive/2020/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+(d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count184
+\scratchdimen=\dimen144
+\scratchbox=\box46
+\nofMPsegments=\count185
+\nofMParguments=\count186
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count187
+\MPscratchDim=\dimen145
+\MPnumerator=\count188
+\makeMPintoPDFobject=\count189
+\everyMPtoPDFconversion=\toks19
+) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+ []
+
+[1] (./CPA- Pablo Vargas Rodríguez.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+
+Overfull \hbox (5.09184pt too wide) in paragraph at lines 16--16
+ [][] []\OT1/cmr/m/n/10.95 Detecci^^Son de for-matos de ficheros pro-te-icos y 
+ex-tracci^^Son 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `"CPA- Pablo Vargas Rodríguez.toc"'.
+
+ [1
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura1.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura1.pdf, id=21, 562.10098pt x 289.08pt>
+File: Figuras/Figura1.pdf Graphic file (type pdf)
+<use Figuras/Figura1.pdf>
+Package pdftex.def Info: Figuras/Figura1.pdf  used on input line 47.
+(pdftex.def)             Requested size: 360.0pt x 185.14288pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+[4 <./Figuras/Figura1.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura2.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura2.pdf, id=36, 562.10098pt x 289.08pt>
+File: Figuras/Figura2.pdf Graphic file (type pdf)
+<use Figuras/Figura2.pdf>
+Package pdftex.def Info: Figuras/Figura2.pdf  used on input line 64.
+(pdftex.def)             Requested size: 360.0pt x 185.14288pt.
+[5 <./Figuras/Figura2.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Overfull \hbox (10.65498pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/10.95 El prosamiento de las poliprote^^S^^Pnas se hace tanto de 
+man-era co-traduccional
+ []
+
+
+Overfull \hbox (14.60915pt too wide) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/10.95 La nsp1 es lib-er-ada r^^Sapidamente para hac-erse con el 
+con-trol de la maquinaria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+[6] [7]
+<Figuras/Figura10.png, id=54, 408.52625pt x 347.2975pt>
+File: Figuras/Figura10.png Graphic file (type png)
+<use Figuras/Figura10.png>
+Package pdftex.def Info: Figuras/Figura10.png  used on input line 126.
+(pdftex.def)             Requested size: 270.0pt x 229.54561pt.
+<Figuras/Figura11.png, id=56, 1027.84pt x 868.24374pt>
+File: Figuras/Figura11.png Graphic file (type png)
+<use Figuras/Figura11.png>
+Package pdftex.def Info: Figuras/Figura11.png  used on input line 130.
+(pdftex.def)             Requested size: 126.0022pt x 106.43697pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figuras/Figura37.png, id=57, 416.30531pt x 398.23781pt>
+File: Figuras/Figura37.png Graphic file (type png)
+<use Figuras/Figura37.png>
+Package pdftex.def Info: Figuras/Figura37.png  used on input line 146.
+(pdftex.def)             Requested size: 143.9978pt x 137.7507pt.
+[8] [9 <./Figuras/Figura10.png> <./Figuras/Figura11.png>]
+<Figuras/Figura38.png, id=66, 534.49687pt x 593.21625pt>
+File: Figuras/Figura38.png Graphic file (type png)
+<use Figuras/Figura38.png>
+Package pdftex.def Info: Figuras/Figura38.png  used on input line 161.
+(pdftex.def)             Requested size: 143.9978pt x 159.8175pt.
+<Figuras/Figura39.png, id=67, 558.58687pt x 635.37375pt>
+File: Figuras/Figura39.png Graphic file (type png)
+<use Figuras/Figura39.png>
+Package pdftex.def Info: Figuras/Figura39.png  used on input line 169.
+(pdftex.def)             Requested size: 108.0011pt x 122.84547pt.
+<Figuras/Figura40.png, id=68, 557.08125pt x 645.16031pt>
+File: Figuras/Figura40.png Graphic file (type png)
+<use Figuras/Figura40.png>
+Package pdftex.def Info: Figuras/Figura40.png  used on input line 173.
+(pdftex.def)             Requested size: 108.0011pt x 125.07234pt.
+<Figuras/Figura41.png, id=69, 528.47438pt x 603.0028pt>
+File: Figuras/Figura41.png Graphic file (type png)
+<use Figuras/Figura41.png>
+Package pdftex.def Info: Figuras/Figura41.png  used on input line 177.
+(pdftex.def)             Requested size: 108.0011pt x 123.22992pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./Figuras/Figura37.png> <./Figuras/Figura38.png>]
+Overfull \hbox (14.17497pt too wide) in paragraph at lines 193--194
+[]\OT1/cmr/m/n/10.95 Dominio Ni-RAN (4-249). Ex-tensi^^Son N-terminal es-pec^^S
+^^Pfica de los nidovirus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+[11 <./Figuras/Figura39.png> <./Figuras/Figura40.png> <./Figuras/Figura41.png>]
+<Figuras/Figura45.png, id=83, 522.45187pt x 244.66406pt>
+File: Figuras/Figura45.png Graphic file (type png)
+<use Figuras/Figura45.png>
+Package pdftex.def Info: Figuras/Figura45.png  used on input line 202.
+(pdftex.def)             Requested size: 360.0pt x 168.59064pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura4.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura4.pdf, id=84, 460.72125pt x 513.41812pt>
+File: Figuras/Figura4.pdf Graphic file (type pdf)
+<use Figuras/Figura4.pdf>
+Package pdftex.def Info: Figuras/Figura4.pdf  used on input line 214.
+(pdftex.def)             Requested size: 161.9989pt x 180.5216pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura6.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura6.pdf, id=85, 505.13719pt x 500.62032pt>
+File: Figuras/Figura6.pdf Graphic file (type pdf)
+<use Figuras/Figura6.pdf>
+Package pdftex.def Info: Figuras/Figura6.pdf  used on input line 219.
+(pdftex.def)             Requested size: 194.39818pt x 192.65921pt.
+
+Overfull \hbox (32.39928pt too wide) in paragraph at lines 219--220
+[][] 
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura5.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura5.pdf, id=86, 670.75594pt x 608.2725pt>
+File: Figuras/Figura5.pdf Graphic file (type pdf)
+<use Figuras/Figura5.pdf>
+Package pdftex.def Info: Figuras/Figura5.pdf  used on input line 224.
+(pdftex.def)             Requested size: 161.9989pt x 146.90724pt.
+<Figuras/Figura44.png, id=87, 342.5297pt x 257.46187pt>
+File: Figuras/Figura44.png Graphic file (type png)
+<use Figuras/Figura44.png>
+Package pdftex.def Info: Figuras/Figura44.png  used on input line 229.
+(pdftex.def)             Requested size: 126.0022pt x 94.7094pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 230.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 230.
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura7.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura7.pdf, id=88, 444.27382pt x 68.04471pt>
+File: Figuras/Figura7.pdf Graphic file (type pdf)
+<use Figuras/Figura7.pdf>
+Package pdftex.def Info: Figuras/Figura7.pdf  used on input line 236.
+(pdftex.def)             Requested size: 360.0pt x 55.13979pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./Figuras/Figura45.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[13 <./Figuras/Figura4.pdf> <./Figuras/Figura6.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura6.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./Figuras/Figura5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura5.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./Figuras/Figura44.png> <./Figuras/Figura7.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+<Figuras/Figura43.png, id=137, 629.35126pt x 447.92343pt>
+File: Figuras/Figura43.png Graphic file (type png)
+<use Figuras/Figura43.png>
+Package pdftex.def Info: Figuras/Figura43.png  used on input line 257.
+(pdftex.def)             Requested size: 288.0011pt x 204.97421pt.
+[14 <./Figuras/Figura43.png>]
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura8.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura8.pdf, id=142, 597.50829pt x 845.0471pt>
+File: Figuras/Figura8.pdf Graphic file (type pdf)
+<use Figuras/Figura8.pdf>
+Package pdftex.def Info: Figuras/Figura8.pdf  used on input line 285.
+(pdftex.def)             Requested size: 194.39818pt x 274.93362pt.
+
+Overfull \hbox (32.39928pt too wide) in paragraph at lines 285--286
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]\OT1/cmr/m/n/10 (a) |Com-plejo nsp12-nsp8-nsp7-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 286--286
+\OT1/cmr/m/n/10 nsp13-RNA. RNA-t se cor-re-ponde
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura9.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura9.pdf, id=143, 597.50829pt x 845.0471pt>
+File: Figuras/Figura9.pdf Graphic file (type pdf)
+<use Figuras/Figura9.pdf>
+Package pdftex.def Info: Figuras/Figura9.pdf  used on input line 289.
+(pdftex.def)             Requested size: 194.39818pt x 274.93362pt.
+
+Overfull \hbox (32.39928pt too wide) in paragraph at lines 289--290
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15] [16 <./Figuras/Figura8.pdf> <./Figuras/Figura9.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura9.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+Overfull \hbox (3.05083pt too wide) in paragraph at lines 317--318
+[]\OT1/cmr/m/n/10.95 El ex-tremo N-terminal de nsp9 se in-serta en el in-te-rio
+r del cen-tro catal^^S^^Ptico
+ []
+
+[17]
+Chapter 2.
+
+Overfull \hbox (4.12086pt too wide) in paragraph at lines 329--329
+[]\OT1/cmr/bx/n/12 Detecci^^Son de for-matos de ficheros pro-te-icos y ex-tracc
+i^^Son
+ []
+
+
+Overfull \hbox (30.5505pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10.95 uaci^^Son, de-sar-rol-lar un pro-grama in-form^^Satico ca-pa
+z de dis-crim-i-nar au-tom^^Saticamente
+ []
+
+[18
+
+]
+Overfull \hbox (1.98503pt too wide) in paragraph at lines 345--346
+[]\OT1/cmr/m/n/10.95 CargarPDB es una funci^^Son muy po-tente que per-mite ac-c
+eder r^^Sapidamente
+ []
+
+[19]
+<Figuras/Figura12.png, id=182, 593.21625pt x 420.06938pt>
+File: Figuras/Figura12.png Graphic file (type png)
+<use Figuras/Figura12.png>
+Package pdftex.def Info: Figuras/Figura12.png  used on input line 376.
+(pdftex.def)             Requested size: 198.0011pt x 140.20653pt.
+
+Overfull \hbox (18.0011pt too wide) in paragraph at lines 376--377
+[][] 
+ []
+
+<Figuras/Figura13.png, id=183, 535.2497pt x 449.42906pt>
+File: Figuras/Figura13.png Graphic file (type png)
+<use Figuras/Figura13.png>
+Package pdftex.def Info: Figuras/Figura13.png  used on input line 381.
+(pdftex.def)             Requested size: 161.9989pt x 136.023pt.
+<Figuras/Figura21.png, id=184, 431.11063pt x 349.80687pt>
+File: Figuras/Figura21.png Graphic file (type png)
+<use Figuras/Figura21.png>
+Package pdftex.def Info: Figuras/Figura21.png  used on input line 385.
+(pdftex.def)             Requested size: 161.9989pt x 131.44412pt.
+[20 <./Figuras/Figura12.png> <./Figuras/Figura13.png> <./Figuras/Figura21.png>]
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura14.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura14.pdf, id=191, 265.84117pt x 110.26494pt>
+File: Figuras/Figura14.pdf Graphic file (type pdf)
+<use Figuras/Figura14.pdf>
+Package pdftex.def Info: Figuras/Figura14.pdf  used on input line 398.
+(pdftex.def)             Requested size: 265.8405pt x 110.26466pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
+
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura46.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura46.pdf, id=192, 134.62596pt x 128.89857pt>
+File: Figuras/Figura46.pdf Graphic file (type pdf)
+<use Figuras/Figura46.pdf>
+Package pdftex.def Info: Figuras/Figura46.pdf  used on input line 407.
+(pdftex.def)             Requested size: 134.62561pt x 128.89824pt.
+[21 <./Figuras/Figura14.pdf> <./Figuras/Figura46.pdf>]
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 448
+.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 448
+.
+
+Missing character: There is no � in font cmr10!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 448
+.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 448
+.
+
+Missing character: There is no � in font cmr10!
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura15.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura15.pdf, id=213, 807.76181pt x 967.56783pt>
+File: Figuras/Figura15.pdf Graphic file (type pdf)
+<use Figuras/Figura15.pdf>
+Package pdftex.def Info: Figuras/Figura15.pdf  used on input line 477.
+(pdftex.def)             Requested size: 161.9989pt x 194.04163pt.
+<Figuras/Figura16.png, id=214, 202.7575pt x 181.67876pt>
+File: Figuras/Figura16.png Graphic file (type png)
+<use Figuras/Figura16.png>
+Package pdftex.def Info: Figuras/Figura16.png  used on input line 481.
+(pdftex.def)             Requested size: 180.0pt x 161.2916pt.
+<Figuras/Figura17.jpg, id=215, 390.45876pt x 401.5pt>
+File: Figuras/Figura17.jpg Graphic file (type jpg)
+<use Figuras/Figura17.jpg>
+Package pdftex.def Info: Figuras/Figura17.jpg  used on input line 486.
+(pdftex.def)             Requested size: 161.9989pt x 166.5765pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22]
+Overfull \vbox (31.88965pt too high) has occurred while \output is active []
+
+
+[23 <./Figuras/Figura15.pdf> <./Figuras/Figura16.png> <./Figuras/Figura17.jpg>]
+<Figuras/Figura18.png, id=236, 451.6875pt x 438.13687pt>
+File: Figuras/Figura18.png Graphic file (type png)
+<use Figuras/Figura18.png>
+Package pdftex.def Info: Figuras/Figura18.png  used on input line 504.
+(pdftex.def)             Requested size: 161.9989pt x 157.14082pt.
+<Figuras/Figura19.png, id=237, 423.5825pt x 447.17062pt>
+File: Figuras/Figura19.png Graphic file (type png)
+<use Figuras/Figura19.png>
+Package pdftex.def Info: Figuras/Figura19.png  used on input line 508.
+(pdftex.def)             Requested size: 161.9989pt x 171.01831pt.
+[24 <./Figuras/Figura18.png> <./Figuras/Figura19.png>]
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura36.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura36.pdf, id=244, 154.713pt x 142.24744pt>
+File: Figuras/Figura36.pdf Graphic file (type pdf)
+<use Figuras/Figura36.pdf>
+Package pdftex.def Info: Figuras/Figura36.pdf  used on input line 544.
+(pdftex.def)             Requested size: 180.0pt x 165.50635pt.
+<Figuras/Figura33.png, id=245, 316.93407pt x 325.96782pt>
+File: Figuras/Figura33.png Graphic file (type png)
+<use Figuras/Figura33.png>
+Package pdftex.def Info: Figuras/Figura33.png  used on input line 556.
+(pdftex.def)             Requested size: 161.9989pt x 166.61938pt.
+<Figuras/Figura34.png, id=246, 310.15875pt x 319.94531pt>
+File: Figuras/Figura34.png Graphic file (type png)
+<use Figuras/Figura34.png>
+Package pdftex.def Info: Figuras/Figura34.png  used on input line 560.
+(pdftex.def)             Requested size: 161.9989pt x 167.10968pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.17943pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10.95 en los pa-sos an-te-ri-or-mente ex-pli-ca-dos: traslaci^^Son
+, GiroOX, GiroOY, GiroOZ.
+ []
+
+<Figuras/Figura35.png, id=247, 771.63281pt x 501.37312pt>
+File: Figuras/Figura35.png Graphic file (type png)
+<use Figuras/Figura35.png>
+Package pdftex.def Info: Figuras/Figura35.png  used on input line 574.
+(pdftex.def)             Requested size: 360.0pt x 233.90877pt.
+[25 <./Figuras/Figura36.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura20.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura20.pdf, id=259, 305.64188pt x 128.57135pt>
+File: Figuras/Figura20.pdf Graphic file (type pdf)
+<use Figuras/Figura20.pdf>
+Package pdftex.def Info: Figuras/Figura20.pdf  used on input line 583.
+(pdftex.def)             Requested size: 360.0pt x 151.44409pt.
+[26 <./Figuras/Figura33.png> <./Figuras/Figura34.png> <./Figuras/Figura35.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <./Figuras/Figura20.pdf>]
+<Figuras/Figura27.png, id=280, 1204.5pt x 664.4825pt>
+File: Figuras/Figura27.png Graphic file (type png)
+<use Figuras/Figura27.png>
+Package pdftex.def Info: Figuras/Figura27.png  used on input line 620.
+(pdftex.def)             Requested size: 161.9989pt x 89.36667pt.
+<Figuras/Figura28.png, id=281, 1204.5pt x 569.12625pt>
+File: Figuras/Figura28.png Graphic file (type png)
+<use Figuras/Figura28.png>
+Package pdftex.def Info: Figuras/Figura28.png  used on input line 624.
+(pdftex.def)             Requested size: 178.19977pt x 84.19289pt.
+
+Overfull \hbox (16.20087pt too wide) in paragraph at lines 624--625
+[][] 
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Figuras/Figura29.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Figuras/Figura29.pdf, id=282, 168.64807pt x 113.65662pt>
+File: Figuras/Figura29.pdf Graphic file (type pdf)
+<use Figuras/Figura29.pdf>
+Package pdftex.def Info: Figuras/Figura29.pdf  used on input line 635.
+(pdftex.def)             Requested size: 168.64766pt x 113.65633pt.
+[28 <./Figuras/Figura27.png> <./Figuras/Figura28.png> <./Figuras/Figura29.pdf>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--667
+
+ []
+
+<Figuras/Figura30.png, id=295, 211.79124pt x 171.64125pt>
+File: Figuras/Figura30.png Graphic file (type png)
+<use Figuras/Figura30.png>
+Package pdftex.def Info: Figuras/Figura30.png  used on input line 684.
+(pdftex.def)             Requested size: 161.9989pt x 131.292pt.
+<Figuras/Figura32.png, id=296, 206.7725pt x 190.7125pt>
+File: Figuras/Figura32.png Graphic file (type png)
+<use Figuras/Figura32.png>
+Package pdftex.def Info: Figuras/Figura32.png  used on input line 688.
+(pdftex.def)             Requested size: 161.9989pt x 149.41862pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29]
+<Figuras/Figura22.png, id=302, 168.12813pt x 126.97438pt>
+File: Figuras/Figura22.png Graphic file (type png)
+<use Figuras/Figura22.png>
+Package pdftex.def Info: Figuras/Figura22.png  used on input line 710.
+(pdftex.def)             Requested size: 161.9989pt x 122.34737pt.
+<Figuras/Figura23.png, id=303, 148.05313pt x 162.6075pt>
+File: Figuras/Figura23.png Graphic file (type png)
+<use Figuras/Figura23.png>
+Package pdftex.def Info: Figuras/Figura23.png  used on input line 714.
+(pdftex.def)             Requested size: 161.9989pt x 177.93091pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./Figuras/Figura30.png> <./Figuras/Figura32.png>] [31 <./Figuras/Figura22.
+png> <./Figuras/Figura23.png>]
+<Figuras/Figura24.png, id=314, 499.36563pt x 134.00063pt>
+File: Figuras/Figura24.png Graphic file (type png)
+<use Figuras/Figura24.png>
+Package pdftex.def Info: Figuras/Figura24.png  used on input line 759.
+(pdftex.def)             Requested size: 360.0pt x 96.60507pt.
+<Figuras/Figura25.png, id=315, 501.37312pt x 111.41624pt>
+File: Figuras/Figura25.png Graphic file (type png)
+<use Figuras/Figura25.png>
+Package pdftex.def Info: Figuras/Figura25.png  used on input line 764.
+(pdftex.def)             Requested size: 360.0pt x 80.00372pt.
+<Figuras/Figura26.png, id=316, 498.36188pt x 120.95187pt>
+File: Figuras/Figura26.png Graphic file (type png)
+<use Figuras/Figura26.png>
+Package pdftex.def Info: Figuras/Figura26.png  used on input line 769.
+(pdftex.def)             Requested size: 360.0pt x 87.37318pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./CPA- Pablo Vargas Rodríguez.bbl [32] [33 <./Figuras/Figura24.png> <./Figura
+s/Figura25.png> <./Figuras/Figura26.png>]
+Underfull \hbox (badness 1331) in paragraph at lines 46--65
+[]\OT1/cmr/m/n/10.95 Chen, J., Mal-one, B., Llewellyn, E., Grasso, M., Shel-ton
+, P. M.,
+ []
+
+[34
+
+]) [35] (./CPA- Pablo Vargas Rodríguez.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3369 strings out of 480876
+ 56386 string characters out of 5911487
+ 302438 words of memory out of 5000000
+ 18959 multiletter control sequences out of 15000+600000
+ 542493 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,8n,47p,825b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1095.pfb>
+Output written on "CPA- Pablo Vargas Rodríguez.pdf" (37 pages, 5411587 bytes).
+
+PDF statistics:
+ 382 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+

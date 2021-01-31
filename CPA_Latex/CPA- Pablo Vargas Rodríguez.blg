@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: CPA- Pablo Vargas Rodríguez.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: cpabib.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 13 entries,
+            6951 wiz_defined-function locations,
+            1352 strings with 15079 characters,
+and the built_in function-call counts, 31334 in all, are:
+= -- 3654
+> -- 318
+< -- 1623
++ -- 1806
+- -- 26
+* -- 2142
+:= -- 5802
+add.period$ -- 46
+call.type$ -- 13
+change.case$ -- 239
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 1029
+empty$ -- 1141
+format.name$ -- 635
+if$ -- 5637
+int.to.chr$ -- 0
+int.to.str$ -- 39
+missing$ -- 0
+newline$ -- 387
+num.names$ -- 104
+pop$ -- 407
+preamble$ -- 1
+purify$ -- 70
+quote$ -- 0
+skip$ -- 1863
+stack$ -- 0
+substring$ -- 1944
+swap$ -- 546
+text.length$ -- 44
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1040
+warning$ -- 0
+while$ -- 230
+width$ -- 0
+write$ -- 521

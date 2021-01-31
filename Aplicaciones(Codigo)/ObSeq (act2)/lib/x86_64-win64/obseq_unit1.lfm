@@ -1,0 +1,106 @@
+object Form1: TForm1
+  Left = 811
+  Height = 710
+  Top = 375
+  Width = 984
+  Caption = 'Form1'
+  ClientHeight = 710
+  ClientWidth = 984
+  DesignTimePPI = 144
+  Font.CharSet = ANSI_CHARSET
+  Font.Color = clBlack
+  Font.Height = -18
+  Font.Name = 'Courier New'
+  Font.Pitch = fpFixed
+  Font.Quality = fqDraft
+  LCLVersion = '2.0.10.0'
+  object Memo1: TMemo
+    Left = 32
+    Height = 535
+    Top = 128
+    Width = 480
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Edit1: TEdit
+    Left = 32
+    Height = 28
+    Top = 32
+    Width = 344
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 384
+    Height = 35
+    Top = 30
+    Width = 115
+    Caption = 'Examinar...'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Edit2: TEdit
+    Left = 32
+    Height = 33
+    Top = 88
+    Width = 222
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Segoe UI Light'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 3
+    Text = 'TIPO DE ARCHIVO'
+  end
+  object Button2: TButton
+    Left = 696
+    Height = 71
+    Top = 30
+    Width = 134
+    Caption = 'Secuencia AA'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 4
+  end
+  object Memo2: TMemo
+    Left = 592
+    Height = 535
+    Top = 128
+    Width = 344
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 5
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 536
+    Top = 312
+  end
+end
